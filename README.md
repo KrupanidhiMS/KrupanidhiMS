@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @KrupanidhiMS
+- 👋 Hi, I’m @KrupanidhiMS, Freshman at BMS College of Engineering
 - 👀 I’m interested in ...Coding and medicine 
-- 🌱 I’m currently learning ... took a udemy course on learnining python, learnt html in codeacademy    
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...kk007private@gmail.com
+- 🌱 From the Dept. of Electronics and Instrumentation Engineering 
+- 📫 How to reach me ...krupanidhi@gmail.com/krupanidhi.ei22@bmsceee.ac.in
 
 <!---
 KrupanidhiMS/KrupanidhiMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
